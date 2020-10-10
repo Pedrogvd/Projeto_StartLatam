@@ -216,3 +216,5 @@ característica2(Tabela2) tipo,
 (Criar tabela que relaciona outras)
 
 **Obs:** Os dados “**(Tabela1)**” e “**(Tabela2)**” são para referenciar os itens “característica”, mostrando que cada um veio de uma tabela diferente.
+
+Autor: Eduardo Riego
