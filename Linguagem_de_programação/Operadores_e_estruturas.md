@@ -121,4 +121,4 @@ escreva("O valor 2 é o maior") } <== Se condição FALSA
 
 A seleção composta também pode apresentar mais de um teste sequencial.
 
-                                                                             Autora: Lorena Ribeiro
+Autora: Lorena Ribeiro
