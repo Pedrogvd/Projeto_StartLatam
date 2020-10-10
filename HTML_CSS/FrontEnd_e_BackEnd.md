@@ -3,7 +3,7 @@
 <p>O desenvolvedor <b>FRONT-END</b>, trabalha com <b>HTML</b>, <b>CSS</b>, e o <b>JAVA SCRIPT</b>, para construir as páginas na web.</p>
 
 <p>O desenvolvedor <b>BACK-END</b>, é responsável por dinamizar o site através das linguagens de programação.</p>
-![image-20201010194603551](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010194603551.png)
+![frontxback](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTML_CSS/frontxback.PNG)
 
 <p>Existem diversas tecnologias para criar aplicações e páginas para a web:</p>
 <ul>
@@ -17,7 +17,6 @@
 <li>SGBD</li>
 </ul>
 
-
 <p><b><h3>Principais Ferramentas:</h3></b></p>
 <ol type= "I">
 <li>Notepad++: Chama atenção pelo recurso que permite a identificação da linguagem que está sendo usada.
@@ -28,7 +27,7 @@ Objective-C, CSS, Pascal, Perl, Python, Lua...</li>
 de acordo com a necessidade do usuário. comporta as linguagens C, C++, C#, CSS, HTML, Haskell, Java, Python, Latex,
 PHP, Ruby, SQL, XML, JavaScript, Groovy...</li>
 </ol>
-![image-20201010194538539](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010194538539.png)
+![código](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTML_CSS/c%C3%B3digo.PNG)
 <p>Para os programadores, o Notepad++ tem suporte à variedade de comandos através de cores, uma função muito utilizada nas IDEs. O Notepad++ já traz incluso o</br>
 reconhecimento para linguagens C, C++,Java, HTML, XML, PHP, JavaScript, Python e várias outras. Mas, caso a linguagem que você desenvolve não estiver entre as</br>
 citadas, é possível adapta-la ao programa para reconhecê-la. Basta usar um "sistema de definição de linguagem" integrado. Por causa de sua versatilidade ao in-</br>
@@ -47,7 +46,7 @@ utilizar durante nossas aulas o programa Notepad++, mas nada impede você de uti
 
 <p><b><h3>TAGS</h3></b></p>
 <p>São comandos de formatação da linguagem HTML.</p>
-![image-20201010194504007](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010194504007.png)
+![tag](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTML_CSS/tag.PNG)
 
 <p>As tags são identificadas pelos símbolos < > (na abertura da tag) e </> (no fechamento da tag).<br>
 Sintaxe:
@@ -69,7 +68,7 @@ outras linguagens, seja de programação (Exemplo: PHP, Java e Python), de scrip
 <b>Estrutura de uma página HTML:</b>
 A estrutura principal são linhas essenciais para o funcionamento de uma página web. 
 Um programa HTML é dividido em três partes básicas:
-                                        ![image-20201010194053345](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010194053345.png) 
+                                        ![cabeçalho](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTML_CSS/cabe%C3%A7alho.PNG) 
 
 
 
@@ -84,7 +83,7 @@ Um programa HTML é dividido em três partes básicas:
   </ul></li>
   <li>TAG BODY - Delimita o  corpo do documento. todo conteúdo (imagem, texto e link ), devem estar dentro do body.</li>
  </ul>
-![image-20201010194416605](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010194416605.png)
+![estrutura](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTML_CSS/estruturaHTML.PNG)
 
 
 
