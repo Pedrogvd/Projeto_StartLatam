@@ -120,3 +120,5 @@ escreva("O valor 2 é o maior") } <== Se condição FALSA
 ![image-20201009211240563](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009211240563.png)
 
 A seleção composta também pode apresentar mais de um teste sequencial.
+
+                                                                             Autora: Lorena Ribeiro
