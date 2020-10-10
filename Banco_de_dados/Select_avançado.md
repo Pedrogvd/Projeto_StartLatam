@@ -5,7 +5,7 @@
 Filtros:
 
  **WHERE** **-** O comando where possibilita que os resultados das consultas sejam filtrados. 
-![tabela 1](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/tabela.PNG)
+![tabela 1](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/tabela.PNG)
 
 SELECT * FROM SALA WHERE NOTA = 7; 
 
