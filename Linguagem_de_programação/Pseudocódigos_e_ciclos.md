@@ -15,3 +15,5 @@ da qual escreveremos instruções de entrada, saída e processamento dos dados. 
 instruções representam as ações que ocorrem em um sistema real.
 
 ![image-20201009213215275](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009213215275.png)
+
+Autor: Stevan Lucca
