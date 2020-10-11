@@ -39,20 +39,20 @@ Passo a passo:
 Passo 1: Entre na página do Portugol Studio. Clique no botão Download para baixar o Portugol.
 Passo 2: Clique em Abrir e Clique sim para executar o programa.
 
-![image-20201009151434006](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009151434006.png)
+![img1](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/img1.PNG)
 
 Passo 3: Clique para avançar e aceite os termos de uso/acordo.
 
-![image-20201009151515821](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009151515821.png)
+![img2](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/img2.PNG)
 
 Passo 4: Clique em avançar Apresentação e os Termos de uso até mostrar o processo de
 instalação.
 
-![image-20201009151614000](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009151614000.png)
+![img3](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/img3.PNG)
 
 Passo 5: Agora é só aproveitar de seu aplicativo construindo seus programas!
 
-![image-20201009151651901](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009151651901.png)
+![img4](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/img4.PNG)
 
 
 
@@ -133,11 +133,11 @@ Escolha o volume do vento
 (instruções, comandos) distintos.
 Veja abaixo a simbologia do fluxograma:
 
-![image-20201009172653867](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009172653867.png)
+![img5](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/img5.PNG)
 
 Exemplo:
 
-![image-20201009172726928](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009172726928.png)
+![img6](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/img6.PNG)
 
 
 
@@ -156,7 +156,7 @@ Os Pseudocódigos são a forma de padronização dos algoritmos no processo de c
 simples sem precisar de conhecer uma sintaxe de programação.
 Exemplo:
 
-![image-20201009172820986](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009172820986.png)
+![img7](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/img7.PNG)
 
 #### Teste de Mesa
 
@@ -229,7 +229,7 @@ ato de dar um nome e um tipo é chamado de declaração de variável, é como um
 Para informá-las, precisamos saber qual o seu "tipo" ao computador para ser compreendido e
 armazená-lo. Veja o exemplo abaixo:
 
-![image-20201009173854904](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009173854904.png)
+![img8](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/img8.PNG)
 
 ​                                             O uso de " ; " é opcional mas o treina para o Java!
 
@@ -296,7 +296,7 @@ Quando fazemos uma entrada de dados o programa geralmente se espera que escrevem
 escrever apertamos o botão Enter do nosso teclado, o leia() entra como o "valor". Exemplo de Entrada
 de Dados:
 
-![image-20201009174115521](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009174115521.png)
+![img9](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/img9.PNG)
 
 
 
