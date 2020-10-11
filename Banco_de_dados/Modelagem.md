@@ -52,43 +52,43 @@ Atributo Chave/Determinante: Propriedade única por entidade.
 
 **Relacionamento um-para-muitos**
 
-![image-20201010175303454](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010175303454.png)
+![rel](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel1.PNG)
 
 **Relacionamento um-para-um**
 
-![image-20201010175330038](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010175330038.png)
+![rel2](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel2.PNG)
 
 **Relacionamento muitos-para-muitos**
 
-![image-20201010175354600](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010175354600.png)
+![rel3](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel3.PNG)
 
 **Relacionamento total** (Quando uma entidade não pode deixar de se relacionar com a outra obrigatoriamente)
 
-![image-20201010175429494](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010175429494.png)
+![rel4](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel4.PNG)
 
 **Relacionamento com Atributos**
 
-![image-20201010175530078](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010175530078.png)
+![rel5](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel5.PNG)
 
 **Auto-Relacionamento**
 
-![image-20201010175605094](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010175605094.png)
+![rel6](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel6.PNG)
 
 **Relacionamento Triplo**
 
-![image-20201010175626697](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010175626697.png)
+![rel7](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel7.PNG)
 
 **Cardinalidade**
 
-![image-20201010175658822](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010175658822.png)
+![rel8](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel8.PNG)
 
 **Especialização** (caracteriza propriedades específicas para cada “perfil”)
 
-​                  ![image-20201010181858115](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010181858115.png)
+​                  ![rel9](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel9.PNG)
 
 **Entidade Associativa** (Resulta da associação entre entidades)
 
-![image-20201010182531908](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010182531908.png)
+![rel10](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel10.PNG)
 
 
 
@@ -106,7 +106,7 @@ Atributo Chave/Determinante: Propriedade única por entidade.
 
 *Atributos viram campos da tabela.*
 
-![image-20201010183207832](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010183207832.png)
+![rel11](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel11.PNG)
 
 
 
@@ -116,7 +116,7 @@ Atributo Chave/Determinante: Propriedade única por entidade.
 
 **Característica:** *Detalhado os componentes da estrutura do banco.*
 
-![image-20201010183323254](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010183323254.png)
+![rel12](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel12.PNG)
 
 Trazendo um exemplo prático de inserção em um banco de dados:
         CREATE DATABASE ESCOLA;
@@ -137,7 +137,7 @@ sexo VARCHAR(1) );
 
 **MySQL:** *MySQL Workbench, modelagem ou criação e manipulação direta do SQL.*
 
-![image-20201010183526137](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010183526137.png)
+![rel13](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel13.PNG)
 
 **Truque de Mestre:** *Modele bem todas as tabelas, campos, chaves (estrangeiras e primárias), a cardinalidade, e etc, pois caso faça de forma errada, seu SQL não será gerado como o esperado. (By: Professor Guibson Santana)*
 
