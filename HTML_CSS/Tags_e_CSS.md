@@ -41,25 +41,32 @@ Lembrando que a TAG tem que estar dentro, como no exemplo: &lt;title&gt;
 &lt;height&gt;: Altura;
 
 **META TAG**
+
 :arrow_right: A Meta TAG descreve o conteúdo do site, passando informações
 importantes para os navegadores. É importante inserirmos no inicio do
 documento HTML, dentro do &lt;head&gt;&lt;/head&gt;.
 Charset&lt;meta charset=”UTF-8”&gt;
+
 :arrow_right: Essa Meta TAG permitirá a utilização de caracteres, como ~, ´,^ e que
 sejam exibidos de forma correta, sem a quebra dos mesmos.
 
 **COMENTÁRIOS**
+
 :arrow_right: Os comentários, são breves anotações que o criador acha relevante
 guardar, para ter controle do que está sendo feito. Lembrando que todo
 conteúdo comentado, não será exibido no site.
 Sintaxe do comentário: &lt;!-- Comentário --&gt;
 
 **TABULAÇÃO**
+
 :arrow_right: Formatação do código, para facilitar o entendimento dos
 desenvolvedores do projeto.
-TÍTULOS E SUBTÍTULOS
+
+**TÍTULOS E SUBTÍTULOS**
+
 :arrow_right: Para formatar o tamanho de títulos e subtítulos, usamos as tags
 heading (h1 – h6).
+
 :arrow_right: O &lt;h1&gt;&lt;/h1&gt; é o tamanho maior (primeiro nível), a partir desse, as letras
 vão diminuindo.
 
@@ -75,6 +82,7 @@ o Justify (justificado)
  Exemplo: &lt;h2 align=”justify”&gt; Teste &lt;/h2&gt;;
 
 **LISTAS**
+
 :arrow_right: Não ordenada: Utiliza-se a TAG &lt;UL&gt;&lt;/UL&gt; e &lt;LI&gt;&lt;/LI&gt;.
 o Circle (Lista com círculo)
 o Square (Lista com quadrado)
@@ -93,26 +101,32 @@ o Neste caso usa-se o comando “1”(ordenação numérica) ou “A”
 &lt;u&gt;&lt;/u&gt; - sublinhado
 
 **IMAGENS NO HTML**
+
 :arrow_right: Pode-se inserir imagens de extenção JPEG, GIF ou PNG. Para isso
 basta iniciar a TAG img.
 Sintaxe: &lt; img src=”pasta/NomeDaImagem.extenção” /&gt;
 
 **DIMENSÕES DA IMAGEM**
+
 :arrow_right: Pode-se ajustar o tamanho de uma imagem, usando os parâmetros
 width (largura) e height (altura), que podem ser dadas como pixels(px)
 ou porcentagem(%).
  Sintaxe: &lt; img src=”IMAGENS/foto.png” width=”100px”
 height=”100px” /&gt;
 LINKS
+
 :arrow_right: Permite a conexão entre documentos.
+
 :arrow_right: Utiliza-se a TAG &lt; a &gt;. Dentro dela deverá ser informado o local e o
 elemento, onde será exibido o link. Isso será possível através do
 parâmetro “href”.
 Sintaxe: &lt; a href=”destino”&gt; Este é o link &lt;/a&gt;.
 
 **CSS**
+
 :arrow_right: Cascading Style Sheets, significa em português, Folhas de Estilo em
 Cascata.
+
 :arrow_right: Facilita na fortamação do arquivo html, podendo fazer alterações de
 forma prática. Nele voce pode fazer configuraçoes das imagens, de
 tabelas, entre outros.
