@@ -7,12 +7,12 @@ programador a entender o algoritmo.
 // Se usa para comentários de apenas uma linha.
 /* Se usa para comentários que contém mais de uma linha. /*
 
-​![image-20201009204451953](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009204451953.png)   
+​![lol1](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/lol1.PNG)   
 
 Se você quiser escrever apenas uma linha, por exemplo a linha de número 1, poderia colocar //
 no início, e depois inserir seu comentário. Veja abaixo um exemplo:
 
-![image-20201009204646496](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009204646496.png)
+![lol2](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/lol2.PNG)
 
 #### **Palavras Reservadas (Palavras Chaves)**
 
@@ -36,11 +36,11 @@ São eles:
 Operadores Aritméticos
 Símbolos que usamos em operações básicas na matemática.
 
-![image-20201009210440760](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009210440760.png)
+![lol3](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/lol3.PNG)
 
 Exemplo:
 
-![image-20201009210504545](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009210504545.png)
+![lol4](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/lol4.PNG)
 
 
 
@@ -51,14 +51,14 @@ Exemplo:
 Servem para compara valores. E como resultado, adquirimos um valor lógico Verdadeiro ou
 Falso.
 
-![image-20201009210802251](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009210802251.png)
+![lol5](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/lol5.PNG)
 
 #### **Operadores Lógicos**
 
 Utilizados para comparar valores, eles nos retornam um valor. Eles fazem uma avaliação que
 resulta em valores verdadeiros ou falsos.
 
-![image-20201009210834340](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009210834340.png)
+![lol6](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/lol6.PNG)
 
 #### **Tabela da Verdade**
 
@@ -67,12 +67,12 @@ valor lógico de uma sobreposição, ou seja, saber quando uma sentença é verd
 Abaixo veremos duas variáveis P e Q do tipo lógico, que assumem valores de verdadeiro e
 falso, em diferentes situações lógicas (E, OU e Negação).
 
-![image-20201009210939646](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009210939646.png)
+![lol7](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/lol7.PNG)
 
 **Exemplo**
 Conforme o que foi aprendido, tente resolver usando seus conhecimentos.
 
-![image-20201009211010620](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009211010620.png)
+![lol8](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/lol8.PNG)
 
 
 
@@ -97,7 +97,7 @@ Exemplo
 Um algoritmo que recebeu 3 possíveis números do ângulo de um triângulo e precisamos saber
 que tipo de triângulo é.
 
-![image-20201009211122213](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009211122213.png)
+![lol9](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/lol9.PNG)
 
 
 
@@ -117,7 +117,7 @@ escreva("O valor 2 é o maior") } <== Se condição FALSA
 
 **Exemplo**
 
-![image-20201009211240563](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009211240563.png)
+![lol10](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/lol10.PNG)
 
 A seleção composta também pode apresentar mais de um teste sequencial.
 

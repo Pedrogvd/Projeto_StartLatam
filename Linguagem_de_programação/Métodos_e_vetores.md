@@ -6,8 +6,10 @@ conhecida como funções, no Java possuem o nome de **métodos**.
 :arrow_right: Para que um subprograma entre em execução é necessário que ele seja
 chamado dentro do programa principal, o que gera um desvio temporário na
 execução do software.
+
 :arrow_right:  Em alguns casos é preciso que o subprograma retorne o valor da tarefa
 executada para o programa principal para que seja apresentado.
+
 :arrow_right:  Podem ter suas próprias variáveis (variáveis locais) e também possuem acesso
 as variáveis do programa que o chamou (variáveis globais).
 
