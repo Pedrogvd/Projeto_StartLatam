@@ -18,7 +18,7 @@ Faça o download do JavaFX. Site para download: https://gluonhq.com/products/jav
 
 Arraste a barra de rolagem e escolha a versão compatível:
 
- ***Imagem 1\***
+ ![mat1](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/mat1.jpg)
 
 \2. O segundo passo é adicionar ele ao Eclipse.
 
@@ -28,7 +28,7 @@ II. Na janela que se abriu vá em: "Java → Installed JREs "
 
  clique no botão "Add..."
 
- ***Imagem 2\***
+ ![mat2](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/mat2.jpg)
 
 III. Em Standard VM deixe marcado e clique em "Next >"
 
@@ -36,7 +36,7 @@ IV. Agora Clique em "Directory..."
 
 V. Seleciona a pasta referente ao JDK baixado.
 
-***Imagem 3\***
+![mat3](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/mat3.jpg)
 
 VI. Depois devemos adicionar o Pacote JavaFX e para isso vá em: "Windows → Preferences"
 
@@ -44,33 +44,35 @@ VI. Vá em "Java" clique em "Build Path" e por fim em "User Libraries."
 
 VII. Clique no botão "New... " Dê um nome (exemplo: JavaFX1) e clique em "OK"
 
+![mat4](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/mat4.jpg)
+
 VIII. Agora clique no botão "Add External JARs..."
 
 IX. Vá na pasta do "JavaFX", abra a pasta "lib" e selecione todos os arquivos, exceto o src.zip.
 
 X. Clique em "Apply and Close"
 
-***Imagem 5\***
+![mat5](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/mat5.jpg)
 
 Caso esse processo não seja suficiente para que seja possível criar um projeto com o JavaFX, você pode seguir o processo mostrado a baixo:
 
 \1. Abra o Eclipse e vá no menu "Help → Install New Software..."
 
-***Imagem 6\***
+![mat6](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/mat6.jpg)
 
 \2. Em Work With coloque o seguinte endereço: https://download.eclipse.org/efxclipse/updatesreleased/2.1.0/site/
 
 \3. Selecione "e(fx)clipse – install", depois clique em "Next >"
 
-***Imagem 7\***
+![mat7](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/mat7.jpg)
 
 \2. Clique novamente em "Next>"
 
-***Imagem 8\***
+![mat8](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/mat8.jpg)
 
 Para concluir necessário aceitar os termos de licença logo após clica em "Finish"
 
-***Imagem 9\***
+![mat9](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/mat9.jpg)
 
 Pronto! Agora aguarde a instalação e a solicitação do Eclipse pedindo para ser reiniciado. Logo após, estará disponível para ser usado.
 
@@ -78,7 +80,7 @@ Pronto! Agora aguarde a instalação e a solicitação do Eclipse pedindo para s
 
 Então vamos criar o primeiro algoritmo utilizando o JavaFX. No exemplo a seguir, faremos algo básico, usaremos a construção de interfaces de forma declarativa.
 
-**imagem 10**
+![mat10](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/mat10.jpg)
 
 \1. Importe a classe principal herdada de (javafx.application.Application). Toda classe principal de JavaFX deve herdar de Application e implementar o método **start**;
 
