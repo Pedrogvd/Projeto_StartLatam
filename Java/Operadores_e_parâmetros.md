@@ -13,85 +13,129 @@ de sublinhado _
 Sintaxe: tipo identificador;
 
 * **Exemplos:**
+
 String nomeComoleto;
+
 Char letra;
+
 Int idade;
+
 Float total1;total2;total3;
+
 Byte v;
+
 Boolean confirmar;
+
 Double valorMedio;
+
 . Obs: String é o único apresentado aqui que não é um tipo primitivo. Ele é um tipo objeto pertencente a classe interna do Java pacote Java .Lang, por isso é o único escrito com inicial maiúscula.
 
 **Conversão de identificadores (nomes)**
 Não é obrigatório, porém existe a conversão padrão para atribuir nomes em Java.
+
 . Classes devem sempre ser indicados por letras maiúsculas;
+
 *Exemplo: Pessoa, Conta
+
 . Métodos ,atributos ,variáveis ,objetos seguem a seguinte regra;
+
 . Apenas um nome, o qual inicia-se por letras minúsculas
+
 *Exemplo: calcular(),pessoa,aluno
+
 . nome composto, primeira palavra com letra minúscula e a segunda com letra maiúscula
+
 *Exemplo: calcularTotal(), calcularMedia(),
+
 Obs: lembre-se de seguir a conversão CamelCase, a qual é uma conversão legalmente aceita que alega que devemos começar os nomes com letras minúsculas e, a cada nova palavra, começá-la com maiúscula.
+
 *Exemplos: nomeDeVariavel
+
 nomeDeAtributo
+
 nomeDeMetodo
 
 NomeDeClasse
 
 **Atribuição de valores em variáveis:**
+
 Operador de atribuição: =
+
 :arrow_right: Atribuindo valores:
+
 nome="João";
+
 idade=25 ;
+
 altura=1.85;
+
 peso=60.5f;
+
 ativo=true;                                         
 
-​                                                                                                                                                                                     :arrow_right: Declaração e atribuição:
+
+:arrow_right: Declaração e atribuição:
+
 String nome="João";
+
 Int idade=25 ;
+
 double altura=1.85;
+
 float peso=60.5f;
+
 boolean ativo=true;
+
 *Obs: não confunda um operador de atribuição (=) com um operador de igualdade (==)
 
 Principais tipos de variáveis:
-. Caractere:
-char (caractere)
-String(cadeia de caracteres
 
-. Inteiros:
+**Inteiros:**
+
 int (inteiro)
+
 byte(inteiro curto)
+
 short (inteiro médio)
+
 long (inteiro longo)
 
-. Ponto flutuante (números reais):
+**Ponto flutuante (números reais):**
+
 float (ponto flutuante simples)
+
 double (ponto flutuante duplo)
 
-. Lógico:
+**Lógico:**
 
 boolean (lógico: true, false)
 
-Tipo primitivo: Char
+**Char**
+
 O tipo char permite a apresentação de caracteres individuais. Geralmente utilizados para armazenar o
 caractere da tabela ASCI, e sempre delimitada por apóstrofos. 
+
 *Exemplo:
+
 char sexo = 'M'
 
-Tipo objeto: String
-É um objeto do Java que armazena valores que são uma sequência de caracteres do tipo char. Uma String é sempre delimitada por aspas duplas.
+**Tipo objeto: String**
+
+É um objeto do Java que armazena valores que são uma sequência de caracteres do tipo char. Uma String é sempre delimitada por aspas.
+
 *Exemplo:
+
 String apelido ="jo";
+
 String nomeCompleto="joão roberto da silva";
 
 
 
 **Como usar as classes**
+
 Usa-se o comando *import*, que serve para identificar e carregar classes de nossa escolha. As instruções *import* devem aparecer antes da definição das classes.
-*Exemplo:
-import Java.util.Scanner;
+
+*Exemplo: import Java.util.Scanner;
 
 
 
@@ -113,38 +157,46 @@ programas Java e ainda inclui as classes String, Math, Integre , Thread, entre o
 . Java.util: classes para tarefa gerais tais como vetores e strings de tokens.
 
 **Um pacote especial**
+
 Java.lang.*( dispensa import)
 
 . A classe system
+
 Possui os métodos out.print(),out.println(), o que é o comando de saída de dados mais básico do Java
 
 . A classe String
 
-É uma classe especial que representa o tipo caracter.
-Mas além dela a outros tipos de classes que representam os tipos primitivos que são chamadas de
-classes Wrapp.
+É uma classe especial que representa o tipo caracter. Mas além dela há outros tipos de classes que representam os tipos primitivos que são chamadas de
+"classes Wrapp".
 
 
 
 ####                                              **Entrada e saída de dados**
 
-​											Portugol                                           Java
-​       											 escreva()                              System.out.print();
-​        											escreval()                             System.out.println();
+                                       	Portugol                                     Java
+                                        escreva()                              System.out.print();
+                                        escreval()                             System.out.println();
 
 Existe uma diferença entre "print" e "println", visto que esse comando "In" faz com que, após a impressão do dado, o cursor continue o programa na linha seguinte.
 
 Ao utilizar métodos de saída de dados podemos utilizar conjunto de algumas sequências de escape (funções de barra invertida), como: 
+
 **\n:** nova linha - posiciona o cursor no início da próxima linha.
+
 **\t:** tabulação horizontal - move o cursor para a próxima parada de tabulação.
+
 **\r :**coloca o curso no iníco da linha atual, não avança para a próxima linha.
+
 **\\:** Barras invertidas. Usada para imprimir um caractere de de barra invertida
+
 **\": **Aspas duplas. Usada para imprimir um caracter de aspas duplas (coloque \ antes da ")
-*Exemplo de aspas duplas:
-System.out.println("\\"aspas\\""); exibe "aspas"
+
+*Exemplo de aspas duplas:  System.out.println("\\"aspas\\""); exibe "aspas"
 
 **Printf**
+
 É um método que corresponde a uma String de formato, que pode ter como intuito texto fixo e especificadores de formato. A letra "f" no final da palavra print significa "formatted", a qual faz com que exiba dados formatados.
+
 *Exemplo:
 public class Texto_printf{
 public static void main (String [ ] args){
@@ -152,10 +204,9 @@ System.out.printf ("%s\n%s\n", "Luciana", "Silva");
 }
 }
 
-​                                            Portugol                                                      Java
-​                                                       Leia()                                  Scanner ler=New Scanner (System.in)
-
-​                                                                                                        n=ler.nextIn;()
+                                        Portugol                                     Java
+                                         Leia()                         Scanner ler=New Scanner (System.in)
+                                                                                  n=ler.nextIn;()
 
 Resumidamente, para utilizarmos um método de entrada de dados temos que seguir as seguintes orientações:
         1- Importar o pacote Java util
@@ -197,20 +248,28 @@ Resto da divisão: % (não é o mesmo que porcentagem)
 
 Utilizados para comparar valores
 
+
 Maior que: >
-       Menor que: <
-       Igualdade: ==
-       Maior ou igual: >=
-       Menor ou igual: <=
-       Diferente de: !=
+
+Menor que: <
+
+Igualdade: ==
+
+Maior ou igual: >=
+
+Menor ou igual: <=
+
+Diferente de: !=
 
 #### **Operadores Lógicos:**
 
 Também são utilizados para comparar valores, porém a diferença está na forma com que os operadores avaliam seus operandos. Esta avaliação resulta em verdadeiro e falso.
 
 && (E)    O resultado será verdadeiro somente se todos os valores da comparação forem verdadeiros
-        || (OU)  O resultado será verdadeiro somente se pelo menos um dos valores da comparação for verdadeiro (todos não podem ser verdadeiros aqui)
-         ! (NÃO) O resultado será verdadeiro somente se a expressão for falsa.
+
+|| (OU)  O resultado será verdadeiro somente se pelo menos um dos valores da comparação for verdadeiro (todos não podem ser verdadeiros aqui)
+
+! (NÃO) O resultado será verdadeiro somente se a expressão for falsa.
 
 Um pouco mais sobre métodos..
 Os métodos também possuem um tipo de identificador (nome). Ademais, eles recebem parênteses ( ), que podem ou não ter a declaração de parâmetros. Além disso, nos métodos também há uma implementação de chaves { }, exceto para métodos abstratos.
