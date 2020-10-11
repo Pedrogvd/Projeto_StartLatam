@@ -25,7 +25,7 @@ mysql-connector: https://jar-download.com/download-handling.php
 
 Instalados esses programas, vamos botar a mão na massa. Para tal, crie todos os pacotes e os arquivos dessa imagem:
 
-​                                      ![lari1](C:\Projeto_StartLatam\Imagens_JAVA\lari1.jpg)
+​                                      ![lari1](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/lari1.jpg)
 
 **Após isso, faça esse código no DAO:**
 
