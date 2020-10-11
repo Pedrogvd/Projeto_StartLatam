@@ -36,7 +36,7 @@ EXEMPLOS:
 (Java Runtime Environment) - Ambiente de Execução do Java que fornece as bibliotecas padrões
 do Java para o JDK compilar o seu código e para a JVM executar o seu programa.
 
-![image-20201010224527436](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010224527436.png)
+![jvm](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/jvm.PNG)
 
 **J2SE – J2EE – J2ME:**
 Java é uma linguagem de programação que permite o desenvolvimento de aplicações para
@@ -148,6 +148,7 @@ características que, juntas, definem como ela opera e resolve os problemas. Alg
 inclusive, possuem mais de um paradigma.
 
 Exemplos de paradigmas:
+
 :arrow_right: Funcional
 O foco desse paradigma está na avaliação de funções. Como na matemática quando temos, por
 exemplo, uma função f(x).
@@ -172,6 +173,7 @@ procedimentos, assim como se faz em linguagens “fortemente imperativas” como
 Pascal etc, na orientação a objetos utilizamos uma lógica bem próxima do mundo real, lidando
 com objetos, estruturas que já conhecemos e sobre as quais possuímos uma grande
 compreensão.
+
 :arrow_right: Orientado a eventos
 Toda linguagem que faz uso de interface gráfica é baseada nesse paradigma. Nele, o fluxo de
 execução do software é baseado na ocorrência de eventos externos, normalmente disparados
@@ -181,10 +183,12 @@ pelo usuário.
 
 ####                                     **Primeiro Algoritmo em Java:**
 
-![image-20201010225342259](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010225342259.png)
+![código](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_JAVA/c%C3%B3digo1.PNG)
 
 **Os pilares da Orientação a Objetos:**
+
 **Abstração**
+
 Abstração significa &quot;esconder&quot; partes da implementação do objeto expondo apenas uma interface
 simples para seu uso. Pense por exemplo em um micro-ondas, você não precisa entender toda a
 complexidade de como os componentes internos trabalham para gerar as ondas e produzir calor,
@@ -194,17 +198,23 @@ Da mesma forma seu objeto deve ter uma interface simples e amigável, deixando s
 complexas ou detalhes de implementação protegidos do mundo exterior. Assim mudanças feitas
 internamente no nível da implementação não irão afetar sua interface pública e aqueles que
 utilizarem o objeto.
+
 **Encapsulamento**
+
 Encapsulamento se refere à construção do objeto de modo a proteger o acesso direto a
 seus dados internos. Ao encapsularmos um objeto estamos agrupando propriedades e
 métodos que estão diretamente relacionados dentro de um mesmo objeto, permitindo que
 essas propriedades sejam acessadas apenas através de métodos públicos. Desta forma
 tratamos de questões importantes como segurança e confiabilidade do estado do objeto.
+
 **Herança**
+
 A Herança é uma forma de eliminar repetição de código onde, como o próprio nome sugere, um
 objeto pode herdar características (ou seja, propriedades e métodos) de outra classe, sem a
 necessidade de se reescrever essas mesmas características.
+
 **Polimorfismo**
+
 Poli significa muitas e Morphos significa forma, então Polimorfismo significa muitas formas. Em POO
 Polimorfismo é caracterizado quando duas ou mais classes possuem métodos com o mesmo nome,
 
