@@ -3,8 +3,7 @@
 <p>O desenvolvedor <b>FRONT-END</b>, trabalha com <b>HTML</b>, <b>CSS</b>, e o <b>JAVA SCRIPT</b>, para construir as páginas na web.</p>
 
 <p>O desenvolvedor <b>BACK-END</b>, é responsável por dinamizar o site através das linguagens de programação.</p>
-![frontxback](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTML_CSS/frontxback.PNG)
-
+<img src = "https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTMLCSS/frontxback.PNG">
 <p>Existem diversas tecnologias para criar aplicações e páginas para a web:</p>
 <ul>
 <li>HTML e CSS</li>
@@ -27,7 +26,7 @@ Objective-C, CSS, Pascal, Perl, Python, Lua...</li>
 de acordo com a necessidade do usuário. comporta as linguagens C, C++, C#, CSS, HTML, Haskell, Java, Python, Latex,
 PHP, Ruby, SQL, XML, JavaScript, Groovy...</li>
 </ol>
-![código](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTML_CSS/c%C3%B3digo.PNG)
+<img src = "https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTMLCSS/c%C3%B3digo.PNG">
 <p>Para os programadores, o Notepad++ tem suporte à variedade de comandos através de cores, uma função muito utilizada nas IDEs. O Notepad++ já traz incluso o</br>
 reconhecimento para linguagens C, C++,Java, HTML, XML, PHP, JavaScript, Python e várias outras. Mas, caso a linguagem que você desenvolve não estiver entre as</br>
 citadas, é possível adapta-la ao programa para reconhecê-la. Basta usar um "sistema de definição de linguagem" integrado. Por causa de sua versatilidade ao in-</br>
@@ -46,7 +45,7 @@ utilizar durante nossas aulas o programa Notepad++, mas nada impede você de uti
 
 <p><b><h3>TAGS</h3></b></p>
 <p>São comandos de formatação da linguagem HTML.</p>
-![tag](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTML_CSS/tag.PNG)
+<img src = "https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTMLCSS/tag.PNG">
 
 <p>As tags são identificadas pelos símbolos < > (na abertura da tag) e </> (no fechamento da tag).<br>
 Sintaxe:
@@ -68,7 +67,7 @@ outras linguagens, seja de programação (Exemplo: PHP, Java e Python), de scrip
 <b>Estrutura de uma página HTML:</b>
 A estrutura principal são linhas essenciais para o funcionamento de uma página web. 
 Um programa HTML é dividido em três partes básicas:
-                                        ![cabeçalho](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTML_CSS/cabe%C3%A7alho.PNG) 
+<img src = "https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTMLCSS/cabe%C3%A7alho.PNG"> 
 
 
 
@@ -83,7 +82,7 @@ Um programa HTML é dividido em três partes básicas:
   </ul></li>
   <li>TAG BODY - Delimita o  corpo do documento. todo conteúdo (imagem, texto e link ), devem estar dentro do body.</li>
  </ul>
-![estrutura](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTML_CSS/estruturaHTML.PNG)
+<img src = "https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTMLCSS/estruturaHTML.PNG">
 
 
 
