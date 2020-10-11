@@ -2,7 +2,7 @@
 
 A seleção de múltipla escolha compara um dado valor a constantes, desviando o fluxo de código para o ponto indicado pela primeira constante onde há casamento.
 
-![image-20201009213147869](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009213147869.png)
+![ste1](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/ste1.PNG)
 
 Pseudocódigo – Portugol:Portugol, também conhecido como Português estruturado, é um
 pseudocódigo escrito em português. Apesar de sucinta, esta definição da Wikipédia cumpre o
@@ -14,6 +14,6 @@ escrever nossos pseudocódigos obedecendo a estrutura de algoritmos. Estrutura e
 da qual escreveremos instruções de entrada, saída e processamento dos dados. Tais
 instruções representam as ações que ocorrem em um sistema real.
 
-![image-20201009213215275](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201009213215275.png)
+![ste2](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_LP/ste1.PNG)
 
 Autor: Stevan Lucca
