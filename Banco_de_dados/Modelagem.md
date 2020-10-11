@@ -52,7 +52,7 @@ Atributo Chave/Determinante: Propriedade única por entidade.
 
 **Relacionamento um-para-muitos**
 
-![image-20201010175303454](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201010175303454.png)
+![rel](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_BD/rel1.PNG)
 
 **Relacionamento um-para-um**
 
