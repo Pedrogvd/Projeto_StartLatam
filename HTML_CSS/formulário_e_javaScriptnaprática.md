@@ -119,7 +119,8 @@ return A + B;
 
 **Unindo HTML, CSS e JS**
 
-​                                        
+Arquivo HTML
+                                        
 
 < !DOCTYPE html >
 
@@ -128,6 +129,8 @@ return A + B;
 < head >
 
 < title >Unindo HTML, CSS e JS< /title >
+
+<script type="text/javascript" src="js/nomeArquivoJavaScript.js"></script>
 
 < script src="aula8.js">< /script >
 
@@ -151,7 +154,7 @@ return A + B;
 
  
 
- 
+  Arquivo JS
 
  
 
