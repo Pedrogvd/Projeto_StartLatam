@@ -12,12 +12,19 @@ dados para descrever as informações contidas nos bancos de dados.
 Conjunto de informações relacionadas entre si, dentro de algum sistema ou dispositivo.
 
 Qual a importância do Banco de Dados?
+
 :arrow_right: Distribuição dos dados.
+
 :arrow_right: Agilidade de armazenamento.
+
 :arrow_right: Agilidade de recuperação de dados.
+
 :arrow_right: Segurança.
+
 :arrow_right: Manipulação de dados mais simplificada.
+
 :arrow_right: Transporte de dados simplificado.
+
 :arrow_right: Previne duplicidade.
 
 **Qual a diferença de dados e informações?**
@@ -41,8 +48,11 @@ SGBD é um programa que armazena informações e permite a consulta e alteraçã
 informações.
 
 **Funcionamento do SGBD**
+
 :arrow_right: Especificação de dados, seus tipos, estruturas e restrições de armazenamento.
+
 :arrow_right: Construções de armazenamento em algum dispositivo ou sistema administrada pelo SGBD.
+
 :arrow_right: Manipulação de dados, busca, atualizações, remoções e retorna relatórios.
 
 **Características do SGBD**
