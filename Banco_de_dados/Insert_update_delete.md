@@ -20,6 +20,7 @@ INT(4) ZEROFILL, o valor 5 é recuperado como
 0005.
 
 :arrow_right: Unique: Impede que haja valores repetidos da chave primária da mesma tabela.
+
 Exemplo: Id int NOT NULL UNIQUE
 Obs: Uma restrição PRIMARY KEY tem automaticamente uma restrição UNIQUE
 
@@ -47,6 +48,7 @@ WHERE NOME = &#39;BARBARA&#39;;
 O **DELETE** funciona para retirarmos um registro da tabela. Como no UPDATE deve-se
 utilizar o WHERE para que seja filtrado quais registros devem ser deletados. Como
 exemplo, iremos deletar a funcionária Ana, por ela ter saído da empresa:
+
 :arrow_right: DELETE FROM empresa.funcionario WHERE id_funcionario = 11;
 
 
