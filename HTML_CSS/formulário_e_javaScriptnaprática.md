@@ -11,7 +11,7 @@ NOME:&lt;input type=”text” size=”20” maxlength=”45” name=”nome”/
 SENHA:&lt;input type=”password” size=”20” maxlength=”45” name=”senha”/&gt;
          &lt;input type=”submit” value=”ENVIAR”/&gt;
 
-![image-20201012161448708](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201012161448708.png)
+![lari20](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTMLCSS/lari20.PNG)
 
 Os elementos de um formulário variam de acordo com o tipo de informação que será
 inserida. Exemplo: text, password, checkbox, file, radio entre outros.
@@ -55,7 +55,7 @@ O JavaScript é uma ferramenta bem útil para um programador em seu trabalho ou 
 
 **Exemplo:**
 
-![image-20201012214540162](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201012214540162.png)
+![lilian20](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTMLCSS/lilian20.PNG)
 
 
 
@@ -105,13 +105,13 @@ return A + B;
 
 
 
-![image-20201012214632022](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201012214632022.png)
+![lilian21](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTMLCSS/lilian21.PNG)
 
 
 
 
 
-![image-20201012214659683](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20201012214659683.png)
+![lilian22](https://github.com/Pedrogvd/Projeto_StartLatam/blob/main/Imagens_HTMLCSS/lilian22.PNG)
 
 
 
